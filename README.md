@@ -7,28 +7,28 @@ The dataset used contains:
 Multiple product categories and 40+ color groups
 All analyses were conducted using Python in a Jupyter Notebook environment.
 
-# Research Questions
+## Research Questions
 This project answers four key questions:
 Do different age groups prefer different product categories?
 Does age influence how much customers spend?
 Which product categories drive repeat purchases?
 What colors dominate customer buying behavior?
 
-# Key Findings
+## Key Findings
 Upper-body garments dominate purchases across all age groups.
 Product category influences price more than age does.
 Upper-body garments drive the strongest repeat purchase behavior.
 Neutral colors (Black, White, Beige) dominate across all demographics.
 Overall, customer behavior patterns are more consistent across age groups than expected.
 
-# Methods
+## Methods
 Data cleaning and preprocessing
 Age cohort segmentation
 Price scaling and distribution analysis
 Repeat purchase metric calculation
 Data visualization (heatmaps, box plots, violin plots, treemaps, stacked bar charts)
 
-# Tools
+## Tools
 Python
 Pandas
 NumPy
@@ -36,14 +36,18 @@ Seaborn
 Matplotlib
 Jupyter Notebook
 
-# Dataset
+## Dataset
 Dataset sourced from Kaggle: H&M Personalized Fashion Recommendations.
 For reproducibility and performance, a representative sample was used instead of the full dataset.
 
-# Future Work
+## Future Work
 Incorporate seasonal and time-based analysis
 Apply clustering for behavioral segmentation
 Develop recommendation modeling approaches
+
+## Presentation
+
+A summarized slide deck version of this analysis is included in the repository.
 
 ## Sample Visualizations
 
