@@ -51,6 +51,9 @@ A summarized slide deck version of this analysis is included in the repository.
 
 ## Sample Visualizations
 
+### Age Groups Top Category
+![BarChart](images/Analysis1bar.png)
+
 ### Age × Category Heatmap
 ![Heatmap](images/Analysis2heat.png)
 
