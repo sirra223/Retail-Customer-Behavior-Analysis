@@ -1,6 +1,3 @@
-# Retail-Customer-Behavior-Analysis
-Customer behavior analysis using 80K+ H&amp;M transactions. Conducted cohort segmentation, price distribution analysis, repeat purchase metrics, and color preference exploration using Python (Pandas, Seaborn, Matplotlib) to derive retail insights.
-
 # Project Overview
 This project explores customer purchasing behavior using a sampled version of the H&M Personalized Fashion Recommendations dataset.
 The objective was to analyze how age, product category, price, repeat purchases, and color preferences interact to reveal meaningful retail insights.
