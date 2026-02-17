@@ -44,3 +44,14 @@ For reproducibility and performance, a representative sample was used instead of
 Incorporate seasonal and time-based analysis
 Apply clustering for behavioral segmentation
 Develop recommendation modeling approaches
+
+## Sample Visualizations
+
+### Age × Category Heatmap
+![Heatmap](images/Analysis2heat.png)
+
+### Price Distribution by Age
+![Violin Plot](images/Analysis2violin.png)
+
+### Color Preference Treemap
+![Treemap](images/analysis4tree.png)
